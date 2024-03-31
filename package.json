@@ -1,0 +1,33 @@
+{
+  "name": "garygillallen",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "garygillallen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abookiosa/garygillallen"
+  },
+  "website": "https://github.com/abookiosa/garygillallen.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "abookiosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abookiosa/garygillallen/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/abookiosa/garygillallen#readme",
+  "dependencies": {
+    "kylewheeler": "1.0.2"
+  }
+}
